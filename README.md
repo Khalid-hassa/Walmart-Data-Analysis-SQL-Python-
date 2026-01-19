@@ -4,13 +4,13 @@
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
-1. Set Up the Environment
+Set Up the Environment
 
  . Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
 
  . Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
-3. Set Up Kaggle API
+Set Up Kaggle API
 
  . API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file.
 
@@ -20,7 +20,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Use the command kaggle datasets download -d <dataset-path> to pull datasets directly into your project.
 
-5. Download Walmart Sales Data
+Download Walmart Sales Data
 
  . Data Source: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
 
@@ -28,7 +28,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Storage: Save the data in the data/ folder for easy reference and access.
 
-7. Install Required Libraries and Load Data
+Install Required Libraries and Load Data
 
  . Libraries: Install necessary Python libraries using:
 
@@ -36,13 +36,13 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
-9. Explore the Data
+Explore the Data
 
  . Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
 
  . Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
 
-10. Data Cleaning
+Data Cleaning
 
  . Remove Duplicates: Identify and remove duplicate entries to avoid skewed results.
 
@@ -54,13 +54,13 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Validation: Check for any remaining inconsistencies and verify the cleaned data.
 
-11. Feature Engineering
+Feature Engineering
 
  . Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
 
  . Enhance Dataset: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
 
-12. Load Data into MySQL and PostgreSQL
+Load Data into MySQL and PostgreSQL
 
  . Set Up Connections: Connect to MySQL and PostgreSQL using sqlalchemy and load the cleaned data into each database.
 
@@ -68,7 +68,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 
-13. SQL Analysis: Complex Queries and Business Problem Solving
+SQL Analysis: Complex Queries and Business Problem Solving
 
  . Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
 
@@ -84,7 +84,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
  . Documentation: Keep clear notes of each query's objective, approach, and results.
 
-14. Project Publishing and Documentation
+Project Publishing and Documentation
 
  . Documentation: Maintain well-structured documentation of the entire process in Markdown or a Jupyter Notebook.
 
