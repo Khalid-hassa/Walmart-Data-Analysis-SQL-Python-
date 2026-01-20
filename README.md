@@ -100,10 +100,10 @@ Project Publishing and Documentation
 
 Results and Insights
 
-This section will include your analysis findings:
+-This section will include your analysis findings:
 
-Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
+-Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 
-Profitability: Insights into the most profitable product categories and locations.
+-Profitability: Insights into the most profitable product categories and locations.
 
-Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
+-Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
