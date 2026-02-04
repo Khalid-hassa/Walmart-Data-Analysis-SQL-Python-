@@ -28,7 +28,7 @@ Download Walmart Sales Data
 
  . Storage: Save the data in the data/ folder for easy reference and access.
 
-Install Required Libraries and Load Data
+Install Required Libraries to load data
 
  . Libraries: Install necessary Python libraries using:
 
